@@ -1,0 +1,1 @@
+document.write('<a href="https://www.legitscript.com/websites/?checker_keywords=renaissancerecovery.com" target="_blank" title="Verify LegitScript Approval for www.renaissancerecovery.com">');document.write('<img src="https://static.legitscript.com/seals/3690159.png" alt="Verify Approval for www.renaissancerecovery.com" width="73" height="79" />');document.write('</a>')
