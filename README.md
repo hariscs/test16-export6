@@ -88,3 +88,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - `src/components/layouts/` — shared layout sections
 - `public/images/` — compressed WebP images
 - `wp-plugin/builder-api.zip` — WordPress plugin (install on your WP site, not here)
+- test
